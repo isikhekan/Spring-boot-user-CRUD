@@ -28,15 +28,19 @@ It demonstrates the use of **Spring Boot**, **Spring Data JPA**, and **DTO** str
 src/main/java/com/example/user_crud_management/
 ├── controller
 │ └── UserController.java
+
 ├── dto
 │ ├── UserDto.java
 │ └── UserDtoIU.java
+
 ├── entities
 │ └── User.java
+
 ├── repository
 │ └── UserRepository.java
+
 └── services
-└── UserService.java
+│└── UserService.java
 
 
 
