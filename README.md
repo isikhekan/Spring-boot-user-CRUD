@@ -26,6 +26,7 @@ It demonstrates the use of **Spring Boot**, **Spring Data JPA**, and **DTO** str
 
 ## 📂 Project Structure
 src/main/java/com/example/user_crud_management/
+
 ├── controller
 │ └── UserController.java
 
